@@ -1,4 +1,4 @@
-Escribo esta frase
+Lo modifico escribiendo esto en github
 Autor: Apah
 Fecha: 10.09.2012
 Asunto: Corresponde a la práctica IV.1
